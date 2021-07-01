@@ -1,18 +1,13 @@
-### Hi there My Name Zeeshan Ahmad 👋
-Software Developer In GeoSolution
-From:01/Marach/2019
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
-<!--
-**Zeeshanahmadkhanlodhi/Zeeshanahmadkhanlodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align='center'>
+[ <a href='https://github.com/Soldy/ama/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/Soldy/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+</p>
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldy&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
 
-- 🔭 I
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
