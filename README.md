@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://blog.zeeshanahmad.pk/](https://blog.zeeshanahmad.pk/)
 
-- 💬 Ask me about **Python , Laravel , Asp.Net**
+- 💬 Ask me about **Javascript, PHP, Python , Laravel , Django ,Asp.Net , MERN , Next.js , React Native , Flutter **
 
 - 📫 How to reach me **zeeshan22ahmad33@gmail.com**
 
