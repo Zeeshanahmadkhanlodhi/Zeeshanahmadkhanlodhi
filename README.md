@@ -17,6 +17,12 @@
 
 - 📄 Know about my experiences [https://zeeshanahmad.pk/](https://zeeshanahmad.pk/)
 
+- 😎 Web Technologies: Laravel , MERN , MEAN ,Next.js , Django , ASP.Net.
+
+- 🤩 Mobile Technologies: React Native , Flutter 
+
+- 😊 Cloud Computing: AWS
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Zeeshan77173176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshankhan" height="30" width="40" /></a>
