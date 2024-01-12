@@ -10,13 +10,13 @@
 
 - 📝 I regularly write articles on [https://blog.zeeshanahmad.pk/](https://blog.zeeshanahmad.pk/)
 
-- 💬 Ask me about **Javascript, PHP, Python , Laravel , Django ,Asp.Net , MERN , Next.js , React Native , Flutter **
+- 💬 Ask me about **Javascript, PHP, Python , Laravel , Django  , MERN , Next.js , React Native , Flutter **
 
 - 📫 How to reach me **zeeshan22ahmad33@gmail.com**
 
 - 📄 Know about my experiences [https://zeeshanahmad.pk/](https://zeeshanahmad.pk/)
 
-- 😎 Web Technologies: Laravel , MERN , MEAN ,Next.js , Django , ASP.Net.
+- 😎 Web Technologies: Laravel , MERN , Next.js , Django 
 
 - 🤩 Mobile Technologies: React Native , Flutter 
 
